@@ -13,7 +13,7 @@ public class demoapp {
 	System.out.println(count);
 	
 	StringBuffer sb=new StringBuffer("viratkohli");
-	int length =sb.append("INDRCB").reverse().length();
+	int length =sb.append("IND").reverse().length();
 	System.out.println(length);
 
 }
